@@ -1,3 +1,4 @@
+# CIRCUIT_CHECK
 
 Creating an application which detects whether a circuit is a combinational or sequential circuit.
 Using Boost library.
